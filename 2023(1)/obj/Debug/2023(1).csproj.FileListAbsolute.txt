@@ -1,0 +1,6 @@
+C:\Users\mohmm\source\repos\v1\2023(1)\obj\Debug\2023(1).csproj.AssemblyReference.cache
+C:\Users\mohmm\source\repos\v1\2023(1)\obj\Debug\2023(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\mohmm\source\repos\v1\2023(1)\obj\Debug\FirstProject.Form1.resources
+C:\Users\mohmm\source\repos\v1\2023(1)\obj\Debug\_2023_1_.Properties.Resources.resources
+C:\Users\mohmm\source\repos\v1\2023(1)\obj\Debug\2023(1).csproj.GenerateResource.cache
+C:\Users\mohmm\source\repos\v1\2023(1)\obj\Debug\2023(1).csproj.CoreCompileInputs.cache
