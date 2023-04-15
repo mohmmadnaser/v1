@@ -1,0 +1,11 @@
+D:\New folder (2)\H R\H R\bin\Debug\H R.exe.config
+D:\New folder (2)\H R\H R\bin\Debug\H R.exe
+D:\New folder (2)\H R\H R\bin\Debug\H R.pdb
+D:\New folder (2)\H R\H R\obj\Debug\H R.csproj.AssemblyReference.cache
+D:\New folder (2)\H R\H R\obj\Debug\H R.csproj.SuggestedBindingRedirects.cache
+D:\New folder (2)\H R\H R\obj\Debug\H_R.Form1.resources
+D:\New folder (2)\H R\H R\obj\Debug\H_R.Properties.Resources.resources
+D:\New folder (2)\H R\H R\obj\Debug\H R.csproj.GenerateResource.cache
+D:\New folder (2)\H R\H R\obj\Debug\H R.csproj.CoreCompileInputs.cache
+D:\New folder (2)\H R\H R\obj\Debug\H R.exe
+D:\New folder (2)\H R\H R\obj\Debug\H R.pdb
